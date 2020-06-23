@@ -45,8 +45,8 @@ public class pruebaTest
     @Test
     public void aProbar()
     {
-        assertEquals(0, prueba.aProbar(-1));//Para valores de q menores que 0
-        assertEquals(1, prueba.aProbar(1));//Para valores de q mayores o iguales que 0 y mientras que i sea menor que q
+        assertEquals(0, prueba.aProbar(-1)); //Para valores de q menores que 0
+        assertEquals(1, prueba.aProbar(1)); //Para valores de q mayores o iguales que 0 y mientras que i sea menor que q
     }
 }
 
