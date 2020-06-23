@@ -24,6 +24,7 @@ public class prueba {
             while(i<q)
             {
                 res=res + q;
+                i++;
             }
         }
         
